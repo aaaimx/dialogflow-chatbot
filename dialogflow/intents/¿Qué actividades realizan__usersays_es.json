@@ -1,0 +1,35 @@
+[
+  {
+    "id": "4616c1be-dea8-4022-bdbf-dbf04c1d6078",
+    "data": [
+      {
+        "text": "que es lo que hacen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "49a37a8b-ebd8-4156-9034-1a2d7ad0112a",
+    "data": [
+      {
+        "text": "cuales son las actividades que realizan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e97ecd63-5e2b-4957-b15c-8c03feb078af",
+    "data": [
+      {
+        "text": "¿Qué actividades realizan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

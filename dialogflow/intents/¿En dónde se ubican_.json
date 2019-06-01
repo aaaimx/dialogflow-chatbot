@@ -1,0 +1,27 @@
+{
+  "id": "635e7d91-44cc-41ac-ad6b-36aa2eacd8bb",
+  "name": "¿En dónde se ubican?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Periférico de Mérida Lic. Manuel Berzunza, Zona Dorada, Mérida, Yuc."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "a7a166ea-d0a0-4852-9874-c9f7838707d0",
+  "name": "que significa la aaai",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Sociedad científica dedicada a avanzar el entendimiento de los mecanismos subyacentes al pensamiento y al comportamiento inteligente y su incorporación en máquinas"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

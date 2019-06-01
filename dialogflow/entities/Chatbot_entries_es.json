@@ -1,0 +1,23 @@
+[
+  {
+    "value": "vicepresidente",
+    "synonyms": [
+      "vicepresidente",
+      "copresidente",
+      "segundo"
+    ]
+  },
+  {
+    "value": "presidente",
+    "synonyms": [
+      "presidente",
+      "jefe",
+      "primero",
+      "encargado",
+      "responsable",
+      "representante",
+      "lider",
+      "director"
+    ]
+  }
+]

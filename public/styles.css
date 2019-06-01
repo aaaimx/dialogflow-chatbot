@@ -1,0 +1,47 @@
+/**
+    AAAI Chatbot Styles
+**/
+
+.container, .button{
+    position: fixed;
+}
+.img{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.nav{
+    position: absolute;
+    opacity: 0;
+    top: 10px;
+    left: -100px;
+    transition: all 0.5s ease-in-out;
+    width: 250px;
+    height: 330px;
+}
+.container{
+    margin: auto;
+    top: 85%;
+    left: 85%;
+    margin-left: -10px;
+}
+#toggle{
+    display: none;
+}
+.button:hover {
+    background: #D9AD26;
+}
+.button{
+    z-index: 999;
+    width: 70px;
+    height: 70px;
+    background: #212529;
+    border-radius: 100%;
+    transition: all 0.5s ease-in-out;
+    cursor: pointer;
+}
+#toggle:checked ~ .nav{
+    opacity: 1;
+    transform: translateY(-100%);
+}
+

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "25076dab-8553-47fb-896d-5e92ae3bc636",
+    "data": [
+      {
+        "text": "quien es el ",
+        "userDefined": false
+      },
+      {
+        "text": "segundo",
+        "alias": "Chatbot",
+        "meta": "@Chatbot",
+        "userDefined": false
+      },
+      {
+        "text": " a cargo del capitulo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fcf4e576-e4bd-4c35-8d4c-4e127d939349",
+    "data": [
+      {
+        "text": "¿Quién es el ",
+        "userDefined": false
+      },
+      {
+        "text": "copresidente",
+        "alias": "Chatbot",
+        "meta": "@Chatbot",
+        "userDefined": true
+      },
+      {
+        "text": " del capítulo estudiantil?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

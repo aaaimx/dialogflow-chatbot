@@ -1,0 +1,27 @@
+{
+  "id": "d6cee94a-b65a-49d2-8ac1-e8c50d4bf249",
+  "name": "¿Quiénes son los patrocinadores y/o asociados del capítulo estudiantil?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Instituto Tecnologico de Mérida, Jarkol Technologies, Indaico, CentroGeo, CIMAT, AAAI"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

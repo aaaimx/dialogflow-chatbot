@@ -1,0 +1,35 @@
+[
+  {
+    "id": "4b2bc9c2-d721-4386-94b8-2aa7c72063b8",
+    "data": [
+      {
+        "text": "que costo tiene unirme a la aaai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "175daa37-8f09-4150-8808-4d411e42b4d5",
+    "data": [
+      {
+        "text": "unirme a la aaai tiene algun costo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c862d4a9-fd3e-4058-960a-36714e02e679",
+    "data": [
+      {
+        "text": "¿Tiene algún costo la membresia de la aaai?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "2dddf8d4-0921-48c6-914f-199b85e37774",
+    "data": [
+      {
+        "text": "quien es el ",
+        "userDefined": false
+      },
+      {
+        "text": "encargado",
+        "alias": "Chatbot",
+        "meta": "@Chatbot",
+        "userDefined": false
+      },
+      {
+        "text": " del capitulo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e12b2386-fcd3-4e68-8a39-7f18c45b4011",
+    "data": [
+      {
+        "text": " quien es el ",
+        "userDefined": false
+      },
+      {
+        "text": "representante",
+        "alias": "Chatbot",
+        "meta": "@Chatbot",
+        "userDefined": true
+      },
+      {
+        "text": " del capitulo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e7a685fa-7588-4781-8133-633fb145e3ef",
+    "data": [
+      {
+        "text": "¿Quién es el ",
+        "userDefined": false
+      },
+      {
+        "text": "presidente",
+        "alias": "Chatbot",
+        "meta": "@Chatbot",
+        "userDefined": true
+      },
+      {
+        "text": " del capítulo estudiantil?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

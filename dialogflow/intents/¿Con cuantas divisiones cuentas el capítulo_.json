@@ -1,0 +1,27 @@
+{
+  "id": "327f129b-28f0-4324-9a17-23978f9b1f23",
+  "name": "¿Con cuantas divisiones cuentas el capítulo?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "cuenta con 5 divisiones el capitulo"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

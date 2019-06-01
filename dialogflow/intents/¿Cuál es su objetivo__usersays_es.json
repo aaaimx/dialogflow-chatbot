@@ -1,0 +1,35 @@
+[
+  {
+    "id": "76ad9ca6-9305-4de4-aa74-8f9be8c9223c",
+    "data": [
+      {
+        "text": "¿que objetivos tienen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3748d560-4186-446b-ac02-396124d48cbe",
+    "data": [
+      {
+        "text": "¿cuales son sus objetivos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "33909f74-74cb-40e2-bde3-90e364f0ed19",
+    "data": [
+      {
+        "text": "¿Cuál es su objetivo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

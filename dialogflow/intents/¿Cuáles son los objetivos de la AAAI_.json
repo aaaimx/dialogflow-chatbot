@@ -1,0 +1,27 @@
+{
+  "id": "451de86a-78ce-4932-93de-dbc786c1ec91",
+  "name": "¿Cuáles son los objetivos de la AAAI?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "• Promover la investigación y el uso responsable de la IA\n• Incrementar el entendimiento público de la IA, mejorar la enseñanza y el entrenamiento de practicantes de la IA"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

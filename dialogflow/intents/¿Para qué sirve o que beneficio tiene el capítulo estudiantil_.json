@@ -1,0 +1,27 @@
+{
+  "id": "2961f8a5-5aa5-4897-b357-77e33f1051ee",
+  "name": "¿Para qué sirve o que beneficio tiene el capítulo estudiantil?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "•\tSirven como un medio para el acercamiento y desarrollo de conocimientos de los estudiantes.\n•\tSe tienen el apoyo de una institución externa (nacional o internacional)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "9c89fcf9-171b-45d3-b6e2-b0308c3a2dd8",
+    "data": [
+      {
+        "text": "cuales son sus ",
+        "userDefined": false
+      },
+      {
+        "text": "responsabilidades",
+        "alias": "Chatbot",
+        "meta": "@Chatbot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1fd09ad1-7e2a-4bc9-a68e-18f854ec1d9b",
+    "data": [
+      {
+        "text": "que obligaciones tienen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d879f4d2-5630-4eb0-bac4-be6963520b4c",
+    "data": [
+      {
+        "text": "¿Cuáles son sus obligaciones?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

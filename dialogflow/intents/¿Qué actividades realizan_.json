@@ -1,0 +1,27 @@
+{
+  "id": "97b64aa6-f5cf-4640-97aa-dd782b294e22",
+  "name": "¿Qué actividades realizan?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "• Organizar y patrocinar conferencias, simposios, y talleres \n• Publicar una revista para todos los miembros \n• Publicar libros, memorias y reportes \n• Otorgar becas, premios y otros reconocimientos"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

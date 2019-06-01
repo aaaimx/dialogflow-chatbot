@@ -1,0 +1,36 @@
+{
+  "id": "3d374181-625b-4ba3-beeb-9918bcd48060",
+  "name": "¿Cuáles son esas divisiones?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "db808ab0-7bde-4401-b21a-dc025a6aed48",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "•\tMachine Learning\n•\tApplied Mathematics \u0026 Symbolic AI\n•\tRobotic\n•\tSoftware\n•\tOperations"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

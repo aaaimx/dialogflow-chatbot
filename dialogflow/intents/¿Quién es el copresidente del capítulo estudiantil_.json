@@ -1,0 +1,36 @@
+{
+  "id": "44e14bd0-a061-488c-b5e8-31d4e73656a1",
+  "name": "¿Quién es el copresidente del capítulo estudiantil?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "25f6f32c-7919-4a89-b3fc-2fa0b4a976b7",
+          "required": true,
+          "dataType": "@Chatbot",
+          "name": "Chatbot",
+          "value": "$Chatbot",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "DR JUAN CARLOS VALDIVIEZO NAVARRO, investigador de centro geo"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

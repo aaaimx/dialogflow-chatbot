@@ -1,0 +1,35 @@
+[
+  {
+    "id": "7cc47f8d-dca5-4ed0-b33b-da16f4db32ef",
+    "data": [
+      {
+        "text": "como consiguen sus economia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "98628d5c-271c-4e3c-841c-0ef102622bec",
+    "data": [
+      {
+        "text": "de donde sacan dinero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0e2567fb-08b7-4a01-a2ec-302bad871530",
+    "data": [
+      {
+        "text": "¿Cómo generan ingresos o de donde sacan recursos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

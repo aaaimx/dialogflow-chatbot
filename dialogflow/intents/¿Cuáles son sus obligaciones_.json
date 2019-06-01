@@ -1,0 +1,36 @@
+{
+  "id": "d62db3f5-c61a-48c5-ba36-034c3248ab8e",
+  "name": "¿Cuáles son sus obligaciones?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "73d40c19-08e0-44ce-8ee8-4eceab50b2a2",
+          "required": false,
+          "dataType": "@Chatbot",
+          "name": "Chatbot",
+          "value": "$Chatbot",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "• Proveer a la AAAI de: \n• Información de contacto de todos los directivos del capítulo \n• Reportes anuales resumiendo las finanzas y las estadísticas de los miembros \n• Una página de internet actualizada del capítulo con reportes de las actividades"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "2d36fddc-bf41-4aad-85a9-ce0e1f1505e0",
+    "data": [
+      {
+        "text": "cuales son los beneficios que obtengo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "18e43710-3968-467b-86f1-372a4b2745a9",
+    "data": [
+      {
+        "text": "que beneficio me trae ser miembro de la aaai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f77501e9-16ac-4e9b-9b1c-5020862a3aef",
+    "data": [
+      {
+        "text": "¿Qué beneficio me ofrece?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

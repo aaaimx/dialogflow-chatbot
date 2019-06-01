@@ -1,0 +1,34 @@
+[
+  {
+    "id": "3b829f8f-f5db-435b-8c3e-09aad9cbb61e",
+    "data": [
+      {
+        "text": "de que trata el capitulo estudiantil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "93983faa-8d8f-4e43-8da3-066fa69cd221",
+    "data": [
+      {
+        "text": "¿Qué es ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " capítulo estudiantil?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "id": "869ed2cf-cc98-4079-90c6-69ace997b439",
+  "name": "quienes son los participantes del capitulo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b36d0aa7-5174-49d4-8f22-4c22c74f1f72",
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "•\tEsteban Brito\n•\tRaul Novelo\n•\tHumberto Sarabia\n•\tFernando Herrera\n•\tAdolfo Álvarez\n•\tJuan López\n•\tPaul Mena"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

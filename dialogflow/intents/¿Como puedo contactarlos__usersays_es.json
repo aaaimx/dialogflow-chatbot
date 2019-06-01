@@ -1,0 +1,35 @@
+[
+  {
+    "id": "4fa28a91-989c-4441-b18c-15070bcc194b",
+    "data": [
+      {
+        "text": "¿donde puedo resolver mis dudas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ca42e890-f17c-47ba-97d4-7af3223b4407",
+    "data": [
+      {
+        "text": "¿donde puedo contactarlos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8dc9e7c2-81ba-4e79-8eb6-a1a707993ea4",
+    "data": [
+      {
+        "text": "¿Como puedo contactarlos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

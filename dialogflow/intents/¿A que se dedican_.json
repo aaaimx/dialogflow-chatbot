@@ -1,0 +1,27 @@
+{
+  "id": "cad83245-7b7b-43e1-b86e-5e077af0dda5",
+  "name": "¿A que se dedican?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Somos una comunidad dedicada a aumentar el conocimiento y promover una mayor conciencia de la Inteligencia Artificial, ubicada (principalmente) en Mérida, Yucatán, México. La sede del capítulo se encuentra en el Instituto Tecnológico de Mérida de Mérida."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

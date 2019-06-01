@@ -1,0 +1,36 @@
+{
+  "id": "8543bcf3-35c0-490a-9956-42fabce802b2",
+  "name": "¿Quién es el presidente del capítulo estudiantil?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a90b4e02-3d68-43b1-a179-4764823d196d",
+          "required": true,
+          "dataType": "@Chatbot",
+          "name": "Chatbot",
+          "value": "$Chatbot",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "DR. MAURICIO G. OROZCO DEL CASTILLO, investigador del ITM"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

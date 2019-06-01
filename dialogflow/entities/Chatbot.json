@@ -1,0 +1,9 @@
+{
+  "id": "a639969a-dd56-424c-ac93-84021ccd8e8e",
+  "name": "Chatbot",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

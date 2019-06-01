@@ -1,0 +1,27 @@
+{
+  "id": "36701a36-d3d7-400e-91c1-a05683ca5b4a",
+  "name": "¿Cuál es su objetivo?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Nuestro objetivo es promover el conocimiento y la práctica de la IA tanto en el ITM como en la comunidad local, alentando a más estudiantes a unirse y promover la investigación y los avances tecnológicos."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

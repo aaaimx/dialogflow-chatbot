@@ -1,0 +1,27 @@
+{
+  "id": "6462d53b-bff7-4be1-bc54-bf1e0068857f",
+  "name": "¿Qué beneficio me ofrece?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "• Revista “AI Magazine” \n• Revista “Artificial Intelligence Journal” \n• Acceso online al texto de “AI Magazine” y a las memorias de conferencias \n• Descuentos en Conferencias de la AAAI \n• Descuentos e información en conferencias afiliadas y subgrupos\n• Descuentos en publicaciones de “AAAI Press” \n• Descuentos en revistas (journals) patrocinadas \n• Acceso a asociaciones profesionales \n• Elegibilidad para becas de la AAAI \n• Elegibilidad para reconocimientos de la AAAI"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

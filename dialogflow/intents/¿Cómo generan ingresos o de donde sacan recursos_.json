@@ -1,0 +1,27 @@
+{
+  "id": "a221052d-8180-49b3-b27e-7cbd00c0a111",
+  "name": "¿Cómo generan ingresos o de donde sacan recursos?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Por medio de:\n• Cuotas de membresía local \n• Donaciones individuales u organizacionales \n• Actividades generales para generar fondos \n• Uso del logo y nombre de AAAI (mientras no se dé permiso a un tercero)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

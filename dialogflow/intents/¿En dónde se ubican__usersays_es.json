@@ -1,0 +1,35 @@
+[
+  {
+    "id": "39525707-4fcf-4bd4-9ab2-53d55bbb6896",
+    "data": [
+      {
+        "text": "¿donde estan establecidos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c1736dc6-84f1-46ab-8e2a-0e4f20ddc68e",
+    "data": [
+      {
+        "text": "¿donde puedo ubicarlos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "86581def-c6fd-4952-ac19-208fa4cd0f80",
+    "data": [
+      {
+        "text": "¿En dónde se ubican?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

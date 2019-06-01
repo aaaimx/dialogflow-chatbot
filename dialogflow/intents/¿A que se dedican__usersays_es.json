@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ecc50272-e848-47cb-b2e1-7e02603b44bf",
+    "data": [
+      {
+        "text": "¿que es lo que hacen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3d7f9e30-ebc6-465d-b29a-83f211393cfc",
+    "data": [
+      {
+        "text": "¿que son ustedes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5f667607-ce4e-4872-a1d8-0f43eb4f377c",
+    "data": [
+      {
+        "text": "¿A que se dedican?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

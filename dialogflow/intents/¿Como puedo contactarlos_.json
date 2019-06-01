@@ -1,0 +1,27 @@
+{
+  "id": "16ffb698-a9ec-45df-8407-096fdb62bc77",
+  "name": "¿Como puedo contactarlos?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "por medio del correo contact@aaaimx.org\nO por la página de Facebook  AAAI Student Chapter México"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

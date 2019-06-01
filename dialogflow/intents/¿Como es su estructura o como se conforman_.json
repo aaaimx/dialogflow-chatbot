@@ -1,0 +1,27 @@
+{
+  "id": "88fdd985-7a1c-4809-94e8-c40ce4044026",
+  "name": "¿Como es su estructura o como se conforman?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Por medio de:\nBoard: Investigadores\nComité Ejecutivo: Siete Estudiantes\nMiembros Operativos\nMiembros No Operativos"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

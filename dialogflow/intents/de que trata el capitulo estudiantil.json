@@ -1,0 +1,35 @@
+{
+  "id": "538472ac-b77c-4880-a1ba-3ac91b9d9191",
+  "name": "de que trata el capitulo estudiantil",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "52032d82-7b9e-46d0-a4c6-2d39d73d0b4f",
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Son agrupaciones de estudiantes asociados a alguna de las diversas instituciones académicas del país, dedicadas a la formación de profesionales en áreas de ciencia, tecnología e ingeniería de materiales."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

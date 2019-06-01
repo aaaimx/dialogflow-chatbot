@@ -1,0 +1,35 @@
+[
+  {
+    "id": "a46cf883-8894-4db6-afe9-782fac57f4af",
+    "data": [
+      {
+        "text": "patrocinadores del capitulo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "04b8ff0a-ff99-45ad-985c-b65c27c3e70f",
+    "data": [
+      {
+        "text": "quienes son los asociados del capítulo estudiantil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "37181982-afa1-4cba-8fec-a9be85be9332",
+    "data": [
+      {
+        "text": "¿Quiénes son los patrocinadores?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]
