@@ -1,3 +1,20 @@
+<p align="center">
+    <img src="https://www.aaaimx.org/img/other/aaaimx-ist.png" width="400" alt="AAAIMX"><br><br>
+    <a href="https://www.aaaimx.org/" target="_blank">
+        <img src="https://img.shields.io/badge/website-AAAI%20Student%20Chapter%20M%C3%A9xico-yellow">
+    </a>
+    <a href="https://web.facebook.com/aaaimx/" target="_blank">
+        <img src="https://img.shields.io/badge/%40aaaimx-facebook-blue">
+    </a>
+    <a href="https://www.aaaimx.org/cod" target="_blank">
+        <img src="https://img.shields.io/badge/COD-contributing-lightgrey">
+    </a>
+    <a href="https://www.aaaimx.org/cod" target="_blank">
+        <img src="https://img.shields.io/badge/donate-support-us-green">
+    </a>
+</p>
+<!-- __ -->
+
 # AAAIMX Chatbot
 Chatbot made with Dialogflow Google API by ITM students
 
@@ -35,7 +52,7 @@ or double click on index.html file. This open project in your web browser
 
 Please read add enhanced styles on our code, and submitting pull requests to us.
 
-## TODO
+## Future work 🚀
 * Add Responsive design (Mobile/Tablet)
 * Fix gramatic errors at Chatbot
 
@@ -52,4 +69,4 @@ Please read add enhanced styles on our code, and submitting pull requests to us.
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ---
-⌨️ con ❤️ por [AAAIMX](https://github.com/aaaimx) 😊
+Made with ❤️ by [AAAIMX](https://github.com/aaaimx) 😊
