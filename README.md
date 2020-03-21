@@ -1,3 +1,4 @@
+<!-- init organization banner -->
 <p align="center">
     <img src="https://www.aaaimx.org/img/other/aaaimx-ist.png" width="400" alt="AAAIMX"><br><br>
     <a href="https://www.aaaimx.org/" target="_blank">
@@ -7,13 +8,10 @@
         <img src="https://img.shields.io/badge/%40aaaimx-facebook-blue">
     </a>
     <a href="https://www.aaaimx.org/cod" target="_blank">
-        <img src="https://img.shields.io/badge/COD-contributing-lightgrey">
-    </a>
-    <a href="https://www.aaaimx.org/cod" target="_blank">
-        <img src="https://img.shields.io/badge/donate-support-us-green">
+        <img src="https://img.shields.io/badge/donate-support%20us-green">
     </a>
 </p>
-<!-- __ -->
+<!-- end banner -->
 
 # AAAIMX Chatbot
 Chatbot made with Dialogflow Google API by ITM students
