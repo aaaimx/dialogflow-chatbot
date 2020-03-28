@@ -54,7 +54,7 @@ Please read add enhanced styles on our code, and submitting pull requests to us.
 * Add Responsive design (Mobile/Tablet)
 * Fix gramatic errors at Chatbot
 
-## Contribuitors ✒️
+## Contributors ✒️
 
 - **Alonzo Mex Fátima Guadalupe** - *Initial work* 
 - **Belmonte May Christopher Alexander** - *Initial work* 
